@@ -1,0 +1,8 @@
+name: MineralzEvolution
+main: com.plugins.mutzii.plugin.MineralzEvolution
+version: 0.0.1
+depend: [ControllableMobsAPI]
+commands:
+  Game:
+    description: Create Build Configurations File 
+    

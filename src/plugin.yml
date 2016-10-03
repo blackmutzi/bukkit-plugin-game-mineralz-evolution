@@ -1,0 +1,8 @@
+name: MineralzEvolution
+main: com.plugins.mutzii.plugin.MineralzEvolution
+version: 1.0.0
+depend: [ControllableMobsAPI]
+commands:
+  Game:
+    description: Mineralz Evolution Game  
+    
