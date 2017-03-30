@@ -1,2 +1,2 @@
-# MineralzEvolution
-Mineralz Evolution is a Minecraft Mini Game ( as Plugin ) 
+# Mineralz-Evolution
+Java Bukkit Plugin - Mineralz-Evolution 
