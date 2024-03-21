@@ -6,6 +6,14 @@ The Game Idee is from the StarCraft2-Mineralz-Evolution Arcade Mod.
 
 ## Game Description:
 As with the old Arcade ME (SC2) mod, you have several building types. One is the main base to be able to build further buildings.
+## Short Game Description:
+A short game description if you don't know Mineralz Evolution from SC2. 
+
+The game is about stopping enemies with your base. 
+There is the tower, which is supposed to destroy and stop the enemies. The tower regularly takes damage from the enemy and needs to be healed, but in order for the healing building to heal it needs electricity and that's what the generator is for.
+
+On the other hand, we have the minerals that are needed to improve the buildings because the enemies are also getting stronger and stronger. Now you as the player have to decide whether you should improve the minerals so that you get more or whether you should improve the buildings first. The aim is to survive as long as possible.
+
 ### Building Types 
 - Base 
    * This is the main base from which everything in the game is controlled. Build other building types and upgrades. 
