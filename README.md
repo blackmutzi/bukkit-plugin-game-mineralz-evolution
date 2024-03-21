@@ -8,7 +8,7 @@ The Game Idee is from the StarCraft2-Mineralz-Evolution Arcade Mod.
 As with the old Arcade ME (SC2) mod, you have several building types. One is the main base to be able to build further buildings.
 ### Building Types 
 - Base 
-   * This is the Main Base to controll everthing in this Game. Base Building and Upgrades. 
+   * This is the main base from which everything in the game is controlled. Build other building types and upgrades. 
 - Tower
    * The Tower is only intended for defense, because evil animals (in Minecraft Zoombies) come regularly and they are getting stronger and stronger. 
 - Healer
