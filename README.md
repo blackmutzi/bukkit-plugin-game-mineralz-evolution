@@ -28,17 +28,17 @@ There are 4 types of minerals. Blue, red, green and purple. The minerals are mad
 
 ### Minecraft Commands:
 - /game debug 
-  for cheating Minearalz
+  * for cheating Minearalz
 - /game join 
-  Joining the Game 
+  * Joining the Game 
 - /game leave
-  Leaving the Game 
+  * Leaving the Game 
 - /game restart
-  Restarting the Game 
+  * Restarting the Game 
 - /game send [-r,-g,-b,-m] [player-name] [amount]
-  Send to another Player Mineralz. Example: /game send -r Max 200 
+  * Send to another Player Mineralz. Example: /game send -r Max 200 
 - /game status
-  Show Player Stats
+  * Show Player Stats
 
 All Commands see here: https://github.com/blackmutzi/bukkit-plugin-game-mineralz-evolution/tree/master/src/com/plugins/mutzii/commandmanager
 
