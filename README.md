@@ -8,13 +8,13 @@ The Game Idee is from the StarCraft2-Mineralz-Evolution Arcade Mod.
 As with the old Arcade ME (SC2) mod, you have several building types. One is the main base to be able to build further buildings.
 ### Building Types 
 - Base 
-   This is the Main Base to controll everthing in this Game. Base Building and Upgrades. 
+   * This is the Main Base to controll everthing in this Game. Base Building and Upgrades. 
 - Tower
-   The Tower is only intended for defense, because evil animals (in Minecraft Zoombies) come regularly and they are getting stronger and stronger. 
+   * The Tower is only intended for defense, because evil animals (in Minecraft Zoombies) come regularly and they are getting stronger and stronger. 
 - Healer
-  The Healer Healt the Tower and need Power.
+   * The Healer Healt the Tower and need Power.
 - Generator
-  The Generator generate Power / electricity
+  * The Generator generate Power / electricity
 
 All Build Types see here: 
 https://github.com/blackmutzi/bukkit-plugin-game-mineralz-evolution/tree/master/src/com/plugins/mutzii/build
