@@ -4,8 +4,6 @@
 ## Game Idee
 The Game Idee is from the StarCraft2-Mineralz-Evolution Arcade Mod.
 
-## Game Description:
-As with the old Arcade ME (SC2) mod, you have several building types. One is the main base to be able to build further buildings.
 ## Short Game Description:
 A short game description if you don't know Mineralz Evolution from SC2. 
 
