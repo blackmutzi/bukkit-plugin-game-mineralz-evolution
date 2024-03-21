@@ -24,7 +24,7 @@ There are 4 types of minerals. Blue, red, green and purple. The minerals are mad
 
 ### Minecraft specification
 - AdminTool
- The AdminTool (Material.BLAZE_ROD) is there to define the playing field and the starting point of the enemy and in which direction they should run. 
+ * The AdminTool (Material.BLAZE_ROD) is there to define the playing field and the starting point of the enemy and in which direction they should run. 
 
 ### Minecraft Commands:
 - /game debug 
