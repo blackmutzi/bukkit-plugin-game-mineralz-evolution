@@ -1,5 +1,6 @@
 package com.plugins.mutzii.commandmanager;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.bukkit.ChatColor;
@@ -10,12 +11,12 @@ import com.plugins.mutzii.other.AdminTool;
 
 public class CommandSelect extends CommandBehavior
 {
-	private List< String > list_of_arguments;
+	private List< String > list_of_arguments = new ArrayList<String>();
 		
-	public CommandSelect(Plugin instance) 
+	public CommandSelect(Plugin instance)
 	{
 		super(instance);
-		
+
 		list_of_arguments.add("spawn");
 		list_of_arguments.add("area ");
 		list_of_arguments.add("tower");
