@@ -10,7 +10,7 @@ import com.plugins.mutzii.mineralz.MineralzPlayer;
 public class PlayerMineralzStore implements MineralzDatabase{
 
 	private static PlayerMineralzStore instance = null;
-	private List<MineralzPlayer> pMStore = null;
+	private List<MineralzPlayer> pMStore = new ArrayList<MineralzPlayer>();
 	
 	protected PlayerMineralzStore(){}
 	
